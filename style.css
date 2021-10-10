@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.container {
+  margin-top: 200px;
+  text-align: center;
+  background-color: azure;
+  border-radius: 7px;
+}
+
+.box1,
+.box2,
+.box3 {
+  padding: 25px;
+}
